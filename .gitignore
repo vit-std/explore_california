@@ -1,0 +1,9 @@
+# Comment 
+tmpfile.txt
+.DS_Store
+*.zip
+log/*.log
+log/*.log.[0-9]
+assets/photoshop/
+assets/videous/
+!assets/videous/tour_*.mp4
